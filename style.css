@@ -30,6 +30,9 @@ main {
     padding: 20px;
 }
 
+section{
+    height: 100vh;
+}
 /* Style the footer */
 footer {
     background-color: #333;
